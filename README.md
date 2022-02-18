@@ -1,5 +1,5 @@
 # the-banx
-The Banx is an NFT media series following bankers by day, crypto pirates by cover of night as they ready their beloved, barnacled sailing vessel Satoshi's Revenge to discover the legendary Liberty Island. 
+The Banx is an NFT media series following bankers by day, crypto pirates by cover of night as they ready their beloved, barnacled sailing vessel Satoshi's Revenge to find freedom - or otherwise meet their fate - at legendary Liberty Island. 
 
 Learn more at [TheBanx.org](https://thebanx.org).
 
